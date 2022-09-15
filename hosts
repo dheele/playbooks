@@ -1,2 +1,2 @@
 [web]
-172.31.90.240   ansible_ssh_user=root ansible_ssh_pass=root#456
+172.31.90.240   
